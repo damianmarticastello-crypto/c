@@ -1,6 +1,8 @@
-/**Crear variables**********
- **Damián Martí Castelló****
- **7/11/2025***1Batx*******/
+/*************************
+*Crear variables         *
+*Damián Martí Castell    *
+*7/11/2025***1Batx       *
+**************************/
 
 #include <stdio.h>
 void main(){
