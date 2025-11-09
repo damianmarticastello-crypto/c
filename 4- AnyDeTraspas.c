@@ -1,8 +1,8 @@
-/********************************
- * programa en c que inmplementa
- * el programa d'any de traspàsd
- * Damián Martí Castelló curs:25/26
- *****************************/
+/****************************************
+ * programa en c que inmplementa        *
+ * el programa d'any de traspàsd        *
+ * Damián Martí Castelló curs:25/26     *
+ ****************************************/
 
 #include <stdio.h>
 int main(){
