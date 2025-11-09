@@ -1,6 +1,8 @@
-/***Contraseña 1234******
-**Damián Martí Castelló**
-**9_11_2025**1 batx*****/
+/*************************
+*Contraseña 1234         *
+*Damián Martí Castelló   *
+*(9_11_2025)   1 batx    *
+**************************/
 
 #include stdio.h
 void main(){
