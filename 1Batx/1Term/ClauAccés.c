@@ -1,0 +1,15 @@
+/*************************
+*Contraseña 1234         *
+*Damián Martí Castelló   *
+*(9_11_2025)   1 batx    *
+**************************/
+
+#include stdio.h
+void main(){
+    int pin;
+    printf("PIN??: ");
+    scanf("%d", &pin);
+    if(pin==1234) printf("ok");
+    else printf ("Incorrecte!!");
+return;
+}
